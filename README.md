@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Привет, я Владислав
 
-<!--
-**Tuinf1/Tuinf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Экономист → Data/ML Engineer. Автоматизация отчётности, Flask-приложения
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 MIFI
+- [ETL Weather Pipeline]([https://github.com/VladRassokhin/weather-etl](https://github.com/Tuinf1/project_1_Rassokhin_M25-555)) — сохранение погодных данных в БД через Docker.
+- [Rosstat Automation (Форма П-1)](https://github.com/VladRassokhin/rosstat-p1) — Flask-интерфейс, XML-экспорт, проверка отчётности.
+
+
+---
+
+## 🧰 Stack
+Python | Pandas | SQL | Flask | Polars | Superset   
