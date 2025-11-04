@@ -5,7 +5,7 @@
 ---
 
 ## 📊 MIFI
-- [ETL Weather Pipeline]([https://github.com/VladRassokhin/weather-etl](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) — 1 проект, python модуль
+- [1-project python module]([[https://github.com/VladRassokhin/weather-etl](https://github.com/Tuinf1/project_1_Rassokhin_M25-555)](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) — 1 проект, python модуль
 - [Rosstat Automation (Форма П-1)](https://github.com/VladRassokhin/rosstat-p1) — Flask-интерфейс, XML-экспорт, проверка отчётности.
 
 
