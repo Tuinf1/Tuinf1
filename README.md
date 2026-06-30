@@ -9,6 +9,10 @@
 
 - [Приложение на FastAPI, предоставляющего защищённый API для взаимодействия с большой языковой моделью (LLM) через сервис OpenRouter](https://github.com/Tuinf1/llm_p)
 
+- [Микросервисная система для работы Telegram-бота с LLM-моделью через OpenRouter.](https://github.com/Tuinf1/3_llm_tg_bot)
+
+
+
 ## 📊2 Тестовые задания
 
 - [2-1 python задания](https://github.com/Tuinf1/01_shift_data_engineer)
