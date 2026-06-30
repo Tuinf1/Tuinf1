@@ -4,7 +4,7 @@
 
 ## 📊1 Учебные проекты
 - [1-project python module](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) 
-- [2-project python module](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
+- [2- создание БД](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
 - 
 
 ## 📊2 Тестовые задания
