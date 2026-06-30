@@ -9,7 +9,7 @@
 
 ## 📊2 Тестовые задания
 
-- [2-1 автоматизация эксель](https://github.com/Tuinf1/01_shift_data_engineer)
+- [2-1 python задания](https://github.com/Tuinf1/01_shift_data_engineer)
 
 ## 📊 3 Проекты
 - [1-блокировка приложений](https://github.com/Tuinf1/3-1_blocking_steam)
