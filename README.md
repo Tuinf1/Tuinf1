@@ -11,7 +11,7 @@
 
 - [Микросервисная система для работы Telegram-бота с LLM-моделью через OpenRouter.](https://github.com/Tuinf1/3_llm_tg_bot)
 
-
+- [CLI-приложение для управления пользователями, валютными курсами и портфелями.](https://github.com/Tuinf1/project_3_Rassokhin_M25-555)
 
 ## 📊2 Тестовые задания
 
