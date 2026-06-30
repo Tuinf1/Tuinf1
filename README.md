@@ -16,5 +16,5 @@
 
 ---
 
-## 🧰 Stack
+## 
 Python | Pandas | SQL | Flask | Polars | Superset   
