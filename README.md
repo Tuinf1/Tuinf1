@@ -11,7 +11,7 @@
 
 - [2-1](https://github.com/Tuinf1/01_shift_data_engineer)
 
-## 📊 3 Мои проекты
+## 📊 3 Проекты
 - [1-блокировка приложений](https://github.com/Tuinf1/3-1_blocking_steam)
 
 ---
