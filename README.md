@@ -3,9 +3,9 @@
 ---
 
 ## 📊1 Учебные проекты
-- [1- лабиринт](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) 
-- [2- создание БД](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
-- 
+- [1- мини проект на python: лабиринт](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) 
+- [2-создание БД](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
+- [МЛ задача - классификация сигналов](https://github.com/Tuinf1/4_lm_project)
 
 ## 📊2 Тестовые задания
 
