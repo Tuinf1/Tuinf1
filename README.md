@@ -7,6 +7,8 @@
 - [2-создание БД](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
 - [МЛ задача - классификация сигналов](https://github.com/Tuinf1/4_lm_project)
 
+- [Приложение на FastAPI, предоставляющего защищённый API для взаимодействия с большой языковой моделью (LLM) через сервис OpenRouter](https://github.com/Tuinf1/llm_p)
+
 ## 📊2 Тестовые задания
 
 - [2-1 python задания](https://github.com/Tuinf1/01_shift_data_engineer)
