@@ -19,7 +19,7 @@
 
 ## 📊 3 Проекты
 - [1-блокировка приложений](https://github.com/Tuinf1/3-1_blocking_steam)
-
+- [1 управление камерой на андроид](https://github.com/Tuinf1/3-2_phonecam)
 ---
 
 ## 
