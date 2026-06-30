@@ -7,7 +7,7 @@
 - [2-project python module](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
 - 
 
-## 📊2 Проекты на тестовых заданиях 
+## 📊2 Тестовые задания
 
 - [2-1](https://github.com/Tuinf1/01_shift_data_engineer)
 
