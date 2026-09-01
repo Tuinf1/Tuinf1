@@ -20,6 +20,7 @@
 ## 📊 3 Проекты
 - [1-блокировка приложений](https://github.com/Tuinf1/3-1_blocking_steam)
 - [2- управление камерой на андроид](https://github.com/Tuinf1/3-2_phonecam)
+- [3 - Распознавание видео в текст (Whisper + CUDA)](https://github.com/Tuinf1/video-transcriber)
 ---
 
 ## 
