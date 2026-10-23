@@ -12,7 +12,7 @@
 - [Микросервисная система для работы Telegram-бота с LLM-моделью через OpenRouter.](https://github.com/Tuinf1/3_llm_tg_bot)
 
 - [CLI-приложение для управления пользователями, валютными курсами и портфелями.](https://github.com/Tuinf1/project_3_Rassokhin_M25-555)
-- [Предсказание калорийности блюд по фото и ингридиентам](https://github.com/Tuinf1/04_multimodal-food-calorie-estimation)
+- [Предсказание калорийности блюд по фото и ингредиентам](https://github.com/Tuinf1/04_multimodal-food-calorie-estimation)
 ### 📊2 Тестовые задания
 
 - [2-1 python задания](https://github.com/Tuinf1/01_shift_data_engineer)
