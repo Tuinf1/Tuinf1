@@ -4,8 +4,8 @@
 
 ### 📊 1. Учебные проекты ML
 
-| № | Проект | Ссылка |
-|---:|---|---|
+| № | Проект | Ссылка |доп| 
+|---:|---|---|---|
 | 1 | Создание базы данных | [GitHub](https://github.com/Tuinf1/project_2_Rassokhin_M25-555) |
 | 2 | Классификация сигналов | [GitHub](https://github.com/Tuinf1/4_lm_project) |
 | 3 | Защищённый API для работы с LLM через OpenRouter | [GitHub](https://github.com/Tuinf1/llm_p) |
