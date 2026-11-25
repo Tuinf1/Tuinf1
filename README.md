@@ -2,18 +2,19 @@
 
 ---
 
-### 📊1 Учебные проекты
-- [1- мини проект на python: лабиринт](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) 
-- [2-создание БД](https://github.com/Tuinf1/project_2_Rassokhin_M25-555)
-- [МЛ задача - классификация сигналов](https://github.com/Tuinf1/4_lm_project)
+### 📊 1. Учебные проекты и ML
 
-- [Приложение на FastAPI, предоставляющего защищённый API для взаимодействия с большой языковой моделью (LLM) через сервис OpenRouter](https://github.com/Tuinf1/llm_p)
+| № | Проект | Ссылка |
+|---:|---|---|
+| 1 | Создание базы данных | [GitHub](https://github.com/Tuinf1/project_2_Rassokhin_M25-555) |
+| 2 | Классификация сигналов | [GitHub](https://github.com/Tuinf1/4_lm_project) |
+| 3 | Защищённый API для работы с LLM через OpenRouter | [GitHub](https://github.com/Tuinf1/llm_p) |
+| 4 | Микросервисная система Telegram-бота с LLM через OpenRouter | [GitHub](https://github.com/Tuinf1/3_llm_tg_bot) |
+| 5 | CLI-приложение для управления пользователями, валютами и портфелями | [GitHub](https://github.com/Tuinf1/project_3_Rassokhin_M25-555) |
+| 6 | Предсказание калорийности блюд по фото и ингредиентам | [GitHub](https://github.com/Tuinf1/04_multimodal-food-calorie-estimation) |
+| 7 | Лабиринт на Python | [GitHub](https://github.com/Tuinf1/project_1_Rassokhin_M25-555) |
 
-- [Микросервисная система для работы Telegram-бота с LLM-моделью через OpenRouter.](https://github.com/Tuinf1/3_llm_tg_bot)
-
-- [CLI-приложение для управления пользователями, валютными курсами и портфелями.](https://github.com/Tuinf1/project_3_Rassokhin_M25-555)
-- [Предсказание калорийности блюд по фото и ингредиентам](https://github.com/Tuinf1/04_multimodal-food-calorie-estimation)
-### 📊2 Тестовые задания
+### 📊 2. Тестовые задания
 
 - [2-1 python задания](https://github.com/Tuinf1/01_shift_data_engineer)
 
